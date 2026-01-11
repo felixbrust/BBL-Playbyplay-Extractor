@@ -12,7 +12,8 @@ This repository contains the source code for transforming unstructured PDF game 
 **🔗 Read the full technical breakdown on my Substack: _____**
 
 ## 🏗 Architecture
-
+![Pipeline Diagram](./workflow.jpg)
+*Figure 1: The "Human-in-the-Loop" extraction workflow.*
 
 
 ## 🧠 LLM-assisted PDF readout
@@ -32,5 +33,6 @@ Occasionally there are even errors in the BBL data itself, most commonly wrong n
 
 ## ⚠️ Remaining issues
 One source of error still remaining is occasionally, when there only is an event of the away team, it gets falsely assigned to the home team(supposed to be quarter|time||||Away event, but transcribed as quarter|time|away event|||). This occurs rarely, so when running investigations over a whole season, I chose to disregard this. However, sometimes, it lands on a substitution, leading to players playing for a wrong team. This usually is the case for 2 in-game minutes which is why I did not manually check and remove all instances. Just thought you should be warned.
+
 
 
