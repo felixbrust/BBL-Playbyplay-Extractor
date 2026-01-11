@@ -1,0 +1,294 @@
+quarter|time|home action|score|diff|away action
+Q1|10:00|Starters: 4 RATHAN-MAYES X., 8 KRATZER L., 11 LUCIC V., 16 JOVIC S., 22 MIKE I.|-|-|Starters: 1 OSOBOR G., 8 CHRISTEN R., 13 BRAXTON JR K., 33 WASHINGTON E., 36 KRAUSE K.
+Q1|10:00|8 KRATZER L. Jump ball won|||1 OSOBOR G. Jump ball lost
+Q1|9:48|4 RATHAN-MAYES X. 2PtsFG outside paint, Jump shot made|2-0|+2|
+Q1|9:33|22 MIKE I. Defensive rebound|||8 CHRISTEN R. 3Pts FG missed
+Q1|9:17|8 KRATZER L. 2Pts FG inside paint, Lay-up missed|||
+Q1|9:16||||Defensive Team rebound
+Q1|8:54||||33 WASHINGTON E. Turnover, Out of bounds
+Q1|8:38|11 LUCIC V. 3PtsFG missed|||
+Q1|8:36||||Defensive Team rebound.
+Q1|8:25|4 RATHAN-MAYES X. Defensive rebound|||1 OSOBOR G. 2PtsFG inside paint, Jump shot missed
+Q1|8:15|22 MIKE I. 3PtsFG missed, 4 RATHAN-MAYES X. Offensive rebound|||
+Q1|8:10|11 LUCIC V. Foul drawn.|||8 CHRISTEN R. Personal foul, 2 free throws awarded (P1,T1)
+Q1|8:10|11 LUCIC V. Free Throw made 1 of 2, 4 RATHAN-MAYES X. Assist|3-0|+3|
+Q1|8:10|11 LUCIC V. Free Throw made 2 of 2|4-0|+4|
+Q1|7:51||||33 WASHINGTON E. 3Pts FG missed, 33 WASHINGTON E. Offensive rebound
+Q1|7:42|4 RATHAN-MAYES X. 3Pts FG missed, 11 LUCIC V. Offensive rebound|||33 WASHINGTON E. 2PtsFG fast break, Lay-up made
+Q1|7:29|11 LUCIC V. 2PtsFG outside paint, Jump shot missed|4-2|+2|1 OSOBOR G. Defensive rebound
+Q1|7:07|8 KRATZER L. 2Pts FG inside paint, Lay-up missed|||OSOBOR G. 2PtsFG inside paint, Lay-up made, 13 BRAXTON JR K. Assist
+Q1|6:52|8 KRATZER L. Defensive rebound|4-4|0|33 WASHINGTON E. Defensive rebound
+Q1|6:43||||33 WASHINGTON E. 3PtsFG missed
+Q1|6:33|11 LUCIC V. 3PFG made, 4 RATHAN-MAYES X. Assist|7-4|+3|
+Q1|6:06||||33 WASHINGTON E. 2PtsFG outside paint, Jump shot made
+Q1|5:48|8 KRATZER L. Foul drawn.|7-6|+1|8 CHRISTEN R. Personal foul (P2,T2)
+Q1|5:48|8 KRATZER L. Substitute out, 1 DA SILVA O. Substitute in|||
+Q1|5:48|16 JOVIC S. Substitute out, 44 BALDWIN K. Substitute in|||
+Q1|5:48||||1 OSOBOR G. Substitute out, 5 CARTER C. Substitute in
+Q1|5:48||||8 CHRISTEN R. Substitute out, 15 BOHANNON N. Substitute in
+Q1|5:48||||13 BRAXTON JR K. Substitute out, 25 BANK L. Substitute in
+Q1|5:45|4 RATHAN-MAYES X. 2Pts FG inside paint, Lay-up made, 44 BALDWIN K. Assist|9-6|+3|
+Q1|5:38|1 DA SILVA O. Defensive rebound.|||5 CARTER C. 3PtsFG missed
+Q1|5:27|4 RATHAN-MAYES X. Turnover, Ball handling|||5 CARTER C. Steal
+Q1|5:23||9-8|+1|5 CARTER C. 2PtsFG fast break, Lay-up made
+Q1|5:18|1 DA SILVA O. Turnover, Bad pass|||36 KRAUSE K. Steal
+Q1|5:15|44 BALDWIN K. Defensive rebound|||36 KRAUSE K. 2PtsFG fast break, Jump shot missed
+Q1|5:04|11 LUCIC V. Foul drawn.|||5 CARTER C. Personal foul (P1,T3)
+Q1|5:04|4 RATHAN-MAYES X. Substitute out, 5 GIFFEY N. Substitute in|||
+Q1|5:04|22 MIKE I. Substitute out, 10 JESSUP J. Substitute in|||36 KRAUSE K. Substitute out, 0 DUNN-MARTIN T. Substitute in
+Q1|4:58|10 JESSUP J. 2PtsFG inside paint, Lay-up missed, 1 DA SILVA O. Offensive rebound|||
+Q1|4:48|44 BALDWIN K. 2Pts FG outside paint, Jump shot missed|||
+Q1|4:44||||Defensive Team rebound
+Q1|4:37|1 DA SILVA O. Personal foul (P1,T1)|||33 WASHINGTON E. Foul drawn
+Q1|4:33||9-11|-2|0 DUNN-MARTIN T. 3Pts FG made
+Q1|4:13|11 LUCIC V. 2PtsFG inside paint, Lay-up made|11-11|0|
+Q1|3:57||11-13|-2|15 BOHANNON N. 2PtsFG outside paint, Jump shot made
+Q1|3:35|5 GIFFEY N. 2Pts FG outside paint, Jump shot missed|||25 BANK L. Defensive rebound
+Q1|3:25||11-16|-5|0 DUNN-MARTIN T. 3Pts FG made, 33 WASHINGTON E. Assist
+Q1|3:06|11 LUCIC V. 2PtsFG inside paint, Lay-up made, 1 DA SILVA O. Assist|13-16|-3|
+Q1|2:40|44 BALDWIN K. Defensive rebound|||15 BOHANNON N. 2PtsFG inside paint, Jumpshot missed
+Q1|2:28|5 GIFFEY N. 3Pts FG made, 10 JESSUP J. Assist|16-16|0|
+Q1|2:16||16-18|-2|33 WASHINGTON E. 2Pts FG outside paint, Jump shot made
+Q1|1:52|44 BALDWIN K. 2PtsFG inside paint, Lay-up made|18-18|0|
+Q1|1:52|44 BALDWIN K. Foul drawn|||15 BOHANNON N. Personal foul, 1 free throw awarded (P1,T4)
+Q1|1:52|11 LUCIC V. Substitute out, 30 SERMPEZIS N. Substitute in|||
+Q1|1:52||||15 BOHANNON N. Substitute out, 1 OSOBOR G. Substitute in
+Q1|1:52||||33 WASHINGTON E. Substitute out, 13 BRAXTON JR K. Substitute in
+Q1|1:52|44 BALDWIN K. Free Throw made 1 of 1|19-18|+1|
+Q1|1:36||||1 OSOBOR G. 3PtsFG missed, 13 BRAXTON JR K. Offensive rebound
+Q1|1:31||19-20|-1|13 BRAXTON JR K. 2Pts FG inside paint, Lay-up made
+Q1|1:25|10 JESSUP J. 2PtsFG inside paint, Lay-up made|21-20|+1|
+Q1|1:12||21-23|-2|25 BANK L. 3PtsFG made, 0 DUNN-MARTIN T. Assist
+Q1|0:40|10 JESSUP J. 3PtsFG missed|||25 BANK L. Defensive rebound
+Q1|0:40||||Alternating Possession Gained
+Q1|0:30||||0 DUNN-MARTIN T. 3PtsFG missed
+Q1|0:28|Defensive Team rebound|||
+Q1|0:06|10 JESSUP J. Turnover, Bad pass|||1 OSOBOR G. Steal
+Q1|0:03|10 JESSUP J. Personal foul (P1,T2)|||
+Q1|0:03||||1 OSOBOR G. Foul drawn
+Q1|0:03||||5 CARTER C. Substitute out, 33 WASHINGTON E. Substitute in.
+Q1|0:01||||13 BRAXTON JR K. 3PtsFG missed
+Q2|10:00|Starters: 1 DA SILVA O., 4 RATHAN-MAYES X., 5 GIFFEY N., 10 JESSUP J., 16 JOVIC S.|-|-|Starters: 0 DUNN-MARTIN T., 13 BRAXTON JR K., 15 BOHANNON N., 25 BANK L., 33 WASHINGTON E.
+Q2|10:00|Alternating Possession Gained|||
+Q2|9:43||||33 WASHINGTON E. Personal foul (P1,T1)
+Q2|9:43|4 RATHAN-MAYES X. Foul drawn|||
+Q2|9:35|5 GIFFEY N. Foul drawn|||25 BANK L. Personal foul (P1, T2)
+Q2|9:31|4 RATHAN-MAYES X. 2Pts FG outside paint, Jump shot missed, 10 JESSUP J. Offensive rebound.|||
+Q2|9:27|10 JESSUP J. 2PtsFG inside paint, Tip-in made|23-23|0|
+Q2|9:11||||33 WASHINGTON E. 3Pts FG missed, 15 BOHANNON N. Offensive rebound
+Q2|9:02||||33 WASHINGTON E. 3Pts FG missed, 13 BRAXTON JR K. Offensive rebound
+Q2|8:57||23-26|-3|33 WASHINGTON E. 3PtsFG made, 13 BRAXTON JR K. Assist
+Q2|8:42|16 JOVIC S. 2PtsFG inside paint, Lay-up made, 1 DA SILVA O. Assist|25-26|-1|
+Q2|8:32||25-29|-4|0 DUNN-MARTIN T. 3Pts FG made
+Q2|8:16|4 RATHAN-MAYES X. 2Pts FG inside paint, Lay-up made|27-29|-2|
+Q2|8:16|1 DA SILVA O. Substitute out, 8 KRATZER L. Substitute in|||HARMSEN B. Timeout
+Q2|8:16||||15 BOHANNON N. Substitute out, 1 OSOBOR G. Substitute in
+Q2|8:00||27-31|-4|1 OSOBOR G. 2PtsFG inside paint, Lay-up made
+Q2|7:50|8 KRATZER L. Foul drawn|||1 OSOBOR G. Personal foul (P1,T3)
+Q2|7:41|4 RATHAN-MAYES X. 3PtsFG missed|||25 BANK L. Defensive rebound
+Q2|7:35|4 RATHAN-MAYES X. Defensive rebound|||13 BRAXTON JR K. 3Pts FG missed
+Q2|7:31|4 RATHAN-MAYES X. Turnover, Ball handling|||33 WASHINGTON E. Steal
+Q2|7:28|4 RATHAN-MAYES X. Defensive rebound|||0 DUNN-MARTIN T. 3PtsFG missed
+Q2|7:23|10 JESSUP J. 2PtsFG fast break, Lay-up made, 4 RATHAN-MAYES X. Assist|29-31|-2|
+Q2|7:13||29-34|-5|1 OSOBOR G. 3PtsFG made, 33 WASHINGTON E. Assist
+Q2|6:57|8 KRATZER L. Turnover, Bad pass|||1 OSOBOR G. Steal
+Q2|6:44|11 LUCIC V. Defensive rebound|||15 BOHANNON N. Free Throw missed 2 of 2
+Q2|6:31|5 GIFFEY N. Defensive rebound|||1 OSOBOR G. 3PtsFG missed
+Q2|6:31|4 RATHAN-MAYES X. 2Pts FG inside paint, Jump shot missed, 16 JOVIC S. Offensive rebound|||
+Q2|6:27|5 GIFFEY N. 3PtsFG made, 16 JOVIC S. Assist|32-34|-2|
+Q2|6:10||||33 WASHINGTON E. Turnover, Travelling
+Q2|6:10|5 GIFFEY N. Substitute out, 11 LUCIC V. Substitute in|||
+Q2|6:10|10 JESSUP J. Substitute out, 22 MIKE I. Substitute in|||0 DUNN-MARTIN T. Substitute out, 5 CARTER C. Substitute in
+Q2|6:10||||25 BANK L. Substitute out, 8 CHRISTEN R. Substitute in
+Q2|5:59|4 RATHAN-MAYES X. 2PtsFG inside paint, Lay-up made|34-34|0|
+Q2|5:42|8 KRATZER L. Steal|||8 CHRISTEN R. Turnover, Bad pass
+Q2|5:29|11 LUCIC V. Foul drawn.|||13 BRAXTON JR K. Personal foul (P1,T4)
+Q2|5:29||||1 OSOBOR G. Substitute out, 15 BOHANNON N. Substitute in
+Q2|5:29||||33 WASHINGTON E. Substitute out, 36 KRAUSE K. Substitute in.
+Q2|5:21|16 JOVIC S. 2PtsFG inside paint, Lay-up made|36-34|+2|
+Q2|5:03|11 LUCIC V. Defensive rebound|||5 CARTER C. 3PtsFG missed
+Q2|4:58||||13 BRAXTON JR K. Substitute out, 0 DUNN-MARTIN T. Substitute in
+Q2|4:44|16 JOVIC S. 3PtsFG missed|||
+Q2|4:42|Offensive Team rebound|||
+Q2|4:33|4 RATHAN-MAYES X. 3Pts FG missed, 16 JOVIC S. Offensive rebound|||
+Q2|4:20|16 JOVIC S. 2PtsFG inside paint, Lay-up made|38-34|+4|
+Q2|4:11|8 KRATZER L. Personal foul, 2 free throws awarded (P1,T1)|||15 BOHANNON N. Foul drawn
+Q2|4:11|4 RATHAN-MAYES X. Substitute out, 10 JESSUP J. Substitute in|||
+Q2|4:11|16 JOVIC S. Substitute out, 44 BALDWIN K. Substitute in|38-35|+3|15 BOHANNON N. Free Throw made 1 of 2
+Q2|3:52|44 BALDWIN K. 2Pts FG inside paint, Lay-up missed, 22 MIKE I. Offensive rebound.|||
+Q2|3:46|44 BALDWIN K. 3PtsFG made, 10 JESSUP J. Assist|41-35|+6|
+Q2|3:44||||HARMSEN B. Timeout
+Q2|3:44||||5 CARTER C. Substitute out, 13 BRAXTON JR K. Substitute in
+Q2|3:44||||36 KRAUSE K. Substitute out, 25 BANK L. Substitute in
+Q2|3:32|10 JESSUP J. Personal foul (P2,T2)|||0 DUNN-MARTIN T. Foul drawn
+Q2|3:26||41-37|+4|13 BRAXTON JR K. 2PtsFG inside paint, Jump shot made
+Q2|3:09|11 LUCIC V. Offensive foul (P1,T3)|||13 BRAXTON JR K. Foul drawn
+Q2|3:05|22 MIKE I. Personal foul (P1,T4)|||0 DUNN-MARTIN T. Foul drawn
+Q2|2:52||41-39|+2|13 BRAXTON JR K. 2Pts FG outside paint, Jump shot made
+Q2|2:32|11 LUCIC V. Foul drawn.|||25 BANK L. Personal foul, 2 free throws awarded (P2, T5)
+Q2|2:32|8 KRATZER L. Substitute out, 5 GIFFEY N. Substitute in|||
+Q2|2:32||||25 BANK L. Substitute out, 5 CARTER C. Substitute in
+Q2|2:32|11 LUCIC V. Free Throw made 1 of 2|42-39|+3|
+Q2|2:32|11 LUCIC V. Free Throw made 2 of 2|43-39|+4|
+Q2|2:30||||0 DUNN-MARTIN T. Substitute out, 1 OSOBOR G. Substitute in
+Q2|2:30||||8 CHRISTEN R. Substitute out, 33 WASHINGTON E. Substitute in
+Q2|2:14||43-41|+2|15 BOHANNON N. 2PtsFG inside paint, Lay-up made
+Q2|1:56|11 LUCIC V. 3PtsFG missed|||1 OSOBOR G. Defensive rebound
+Q2|1:38|11 LUCIC V. Personal foul, 2 free throws awarded (P2,T5)|||1 OSOBOR G. Foul drawn
+Q2|1:38|HERBERT G. Timeout|||1 OSOBOR G. Free Throw missed 1 of 2
+Q2|1:38|10 JESSUP J. Substitute out, 4 RATHAN-MAYES X. Substitute in|||
+Q2|1:38|11 LUCIC V. Substitute out, 8 KRATZER L. Substitute in|43-42|+1|1 OSOBOR G. Free Throw made 2 of 2
+Q2|1:23|4 RATHAN-MAYES X. 3PtsFG missed|||13 BRAXTON JR K. Defensive rebound
+Q2|1:06|8 KRATZER L. Blocked shot, 22 MIKE I. Defensive rebound|||15 BOHANNON N. 2PtsFG inside paint, Lay-up blocked
+Q2|1:01|4 RATHAN-MAYES X. 2PtsFG fast break, Lay-up made, 22 MIKE I. Assist|45-42|+3|
+Q2|0:46||45-45|0|1 OSOBOR G. 3PtsFG made, 13 BRAXTON JR K. Assist
+Q2|0:31|5 GIFFEY N. 3Pts FG missed|||1 OSOBOR G. Defensive rebound
+Q2|0:07||45-47|-2|15 BOHANNON N. 2PtsFG inside paint, Lay-up made
+Q2|0:00|4 RATHAN-MAYES X. 3PtsFG made|48-47|+1|
+Q3|10:00|Starters: 4 RATHAN-MAYES X., 8 KRATZER L., 11 LUCIC V., 16 JOVIC S., 22 MIKE I.|-|-|Starters: 1 OSOBOR G., 8 CHRISTEN R., 13 BRAXTON JR K., 33 WASHINGTON E., 36 KRAUSE K.
+Q3|10:00||||Alternating Possession Gained
+Q3|9:46|8 KRATZER L. Defensive rebound|||1 OSOBOR G. 3PtsFG missed
+Q3|9:28|22 MIKE I. 3PtsFG missed|||13 BRAXTON JR K. Defensive rebound
+Q3|9:11||48-49|-1|1 OSOBOR G. 2PtsFG inside paint, Lay-up made, 33 WASHINGTON E. Assist
+Q3|8:54||||33 WASHINGTON E. Personal foul, 2 free throws awarded (P2,T1)
+Q3|8:54|16 JOVIC S. Foul drawn|||
+Q3|8:54|4 RATHAN-MAYES X. Substitute out, 10 JESSUP J. Substitute in|||
+Q3|8:54|16 JOVIC S. Free Throw made 1 of 2|49-49|0|
+Q3|8:54|16 JOVIC S. Free Throw missed 2 of 2|||8 CHRISTEN R. Defensive rebound
+Q3|8:39|10 JESSUP J. Personal foul (P3,T1)|||13 BRAXTON JR K. Foul drawn.
+Q3|8:32|8 KRATZER L. Steal|||33 WASHINGTON E. Turnover, Ball handling
+Q3|8:29|16 JOVIC S. 2PtsFG fast break, Lay-up made|51-49|+2|
+Q3|8:07|16 JOVIC S. Defensive rebound|||1 OSOBOR G. 2PtsFG outside paint, Jump shot missed
+Q3|8:01|22 MIKE I. 2PtsFG inside paint, Lay-up made|53-49|+4|
+Q3|7:43||53-51|+2|36 KRAUSE K. 2Pts FG inside paint, Lay-up made
+Q3|7:31|16 JOVIC S. 3PtsFG made, 8 KRATZER L. Assist|56-51|+5|
+Q3|7:10|10 JESSUP J. Defensive rebound|||1 OSOBOR G. 2PtsFG outside paint, Jump shot missed
+Q3|6:56|11 LUCIC V. 3PtsFG made, 10 JESSUP J. Assist|59-51|+8|
+Q3|6:55||||HARMSEN B. Timeout
+Q3|6:55||||33 WASHINGTON E. Substitute out, 0 DUNN-MARTIN T. Substitute in
+Q3|6:31||59-54|+5|0 DUNN-MARTIN T. 3Pts FG made
+Q3|6:14|8 KRATZER L. Turnover, Bad pass|||0 DUNN-MARTIN T. Steal
+Q3|6:06|8 KRATZER L. Blocked shot|||0 DUNN-MARTIN T. 2PtsFG outside paint, Jump shot blocked, 0 DUNN-MARTIN T. Offensive rebound
+Q3|6:01|16 JOVIC S. Defensive rebound|||8 CHRISTEN R. 3PtsFG missed
+Q3|5:45|8 KRATZER L. Foul drawn|||13 BRAXTON JR K. Personal foul, 2 free throws awarded (P2,T2)
+Q3|5:45|16 JOVIC S. Substitute out, 44 BALDWIN K. Substitute in|||
+Q3|5:45||||1 OSOBOR G. Substitute out, 15 BOHANNON N. Substitute in
+Q3|5:45||||8 CHRISTEN R. Substitute out, 25 BANK L. Substitute in
+Q3|5:45|8 KRATZER L. Free Throw missed 1 of 2|||
+Q3|5:45|8 KRATZER L. Free Throw missed 2 of 2|||13 BRAXTON JR K. Defensive rebound
+Q3|5:28|44 BALDWIN K. Steal|||0 DUNN-MARTIN T. Turnover, Bad pass
+Q3|5:28|22 MIKE I. Foul drawn|||15 BOHANNON N. Personal foul (P2,T3)
+Q3|5:10|10 JESSUP J. 3PtsFG missed|||25 BANK L. Defensive rebound
+Q3|4:59|8 KRATZER L. Personal foul (P2,T2)|||0 DUNN-MARTIN T. Foul drawn
+|4:59|8 KRATZER L. Substitute out, 1 DA SILVA O. Substitute in|||
+Q3|4:59|22 MIKE I. Substitute out, 5 GIFFEY N. Substitute in|||13 BRAXTON JR K. Substitute out, 5 CARTER C. Substitute in
+Q3|4:42|11 LUCIC V. Defensive rebound|||36 KRAUSE K. 3PtsFG missed
+Q3|4:35|11 LUCIC V. 2PtsFG fast break, Lay-up made, 44 BALDWIN K. Assist|61-54|+7|
+Q3|4:35|11 LUCIC V. Foul drawn|||15 BOHANNON N. Personal foul, 1 free throw awarded (P3,T4)
+Q3|4:35|10 JESSUP J. Substitute out, 4 RATHAN-MAYES X. Substitute in|||
+Q3|4:35|11 LUCIC V. Free Throw fast break made 1 of 1|62-54|+8|
+Q3|4:24|11 LUCIC V. Defensive rebound|||15 BOHANNON N. 2PtsFG outside paint, Jump shot missed
+Q3|4:13|1 DA SILVA O. 2Pts FG inside paint, Lay-up made, 44 BALDWIN K. Assist|64-54|+10|
+Q3|4:13||||15 BOHANNON N. Substitute out, 1 OSOBOR G. Substitute in
+Q3|4:13||||36 KRAUSE K. Substitute out, 33 WASHINGTON E. Substitute in.
+Q3|3:55|4 RATHAN-MAYES X. Personal foul (P1,T3)|||33 WASHINGTON E. Foul drawn
+Q3|3:47||64-57|+7|33 WASHINGTON E. 3PtsFG made
+Q3|3:29|1 DA SILVA O. 2Pts FG outside paint, Jump shot made, 11 LUCIC V. Assist|66-57|+9|
+Q3|3:08||||33 WASHINGTON E. 2Pts FG outside paint, Jump shot missed
+Q3|3:07||||Offensive Team rebound
+Q3|3:07|1 DA SILVA O. Personal foul (P2,T4)|||1 OSOBOR G. Foul drawn
+Q3|3:07|11 LUCIC V. Substitute out, 10 JESSUP J. Substitute in|||5 CARTER C. Substitute out, 13 BRAXTON JR K. Substitute in
+Q3|2:55|4 RATHAN-MAYES X. Steal|||1 OSOBOR G. Turnover, Ball handling
+Q3|2:43|10 JESSUP J. 2PtsFG inside paint, Jump shot missed|||13 BRAXTON JR K. Defensive rebound
+Q3|2:35||66-59|+7|33 WASHINGTON E. 2Pts FG inside paint, Lay-up made
+Q3|2:35|10 JESSUP J. Personal foul, 1 free throw awarded (P4,T5)|||33 WASHINGTON E. Foul drawn
+Q3|2:35|10 JESSUP J. Substitute out, 16 JOVIC S. Substitute in|66-60|+6|33 WASHINGTON E. Free Throw made 1 of 1
+Q3|2:22|16 JOVIC S. Turnover, Ball handling|||33 WASHINGTON E. Steal
+Q3|2:18|4 RATHAN-MAYES X. Defensive rebound|||33 WASHINGTON E. 2Pts FG inside paint, Lay-up missed
+Q3|2:04|1 DA SILVA O. 2Pts FG inside paint, Dunk made, 4 RATHAN-MAYES X. Assist|68-60|+8|
+Q3|1:52|1 DA SILVA O. Steal|||33 WASHINGTON E. Turnover, Bad pass.
+Q3|1:47|4 RATHAN-MAYES X. 3PtsFG missed|||1 OSOBOR G. Defensive rebound
+Q3|1:41|4 RATHAN-MAYES X. Personal foul, 2 freethrows awarded (P2,T6)|||0 DUNN-MARTIN T. Foul drawn.
+Q3|1:41||||33 WASHINGTON E. Substitute out, 5 CARTER C. Substitute in
+Q3|1:41||68-61|+7|0 DUNN-MARTIN T. Free Throw made 1 of 2
+Q3|1:41||68-62|+6|0 DUNN-MARTIN T. Free Throw made 2 of 2
+Q3|1:18|4 RATHAN-MAYES X. 3Pts FG missed.|||
+Q3|1:14||||Defensive Team rebound
+Q3|0:56|4 RATHAN-MAYES X. Defensive rebound|||13 BRAXTON JR K. 3PtsFG missed.
+Q3|0:42|44 BALDWIN K. 2 Pts FG inside paint, Lay-up made|70-62|+8|
+Q3|0:27|4 RATHAN-MAYES X. Defensive rebound|||25 BANK L. 3PtsFG missed
+Q3|0:01|4 RATHAN-MAYES X. 3PtsFG missed|||0 DUNN-MARTIN T. Defensive rebound
+Q3|0:00||||0 DUNN-MARTIN T. 3PtsFG missed
+Q4|10:00|Starters: 1 DA SILVA O., 4 RATHAN-MAYES X., 5 GIFFEY N., 16 JOVIC S., 44 BALDWIN K.|-|-|Starters: 0 DUNN-MARTIN T., 13 BRAXTON JR K., 15 BOHANNON N., 33 WASHINGTON E., 8 CHRISTEN R.
+Q4|10:00|Alternating Possession Gained|||
+Q4|9:45|5 GIFFEY N. 3Pts FG missed, 1 DA SILVA O. Offensive rebound|||
+Q4|9:39|5 GIFFEY N. 2Pts FG inside paint, Lay-up made, 1 DA SILVA O. Assist|72-62|+10|
+Q4|9:23||72-65|+7|13 BRAXTON JR K. 3PtsFG made, 15 BOHANNON N. Assist
+Q4|8:57|5 GIFFEY N. 2Pts FG outside paint, Jump shot made|74-65|+9|
+Q4|8:43|1 DA SILVA O. Blocked shot, 4 RATHAN-MAYES X. Defensive rebound|||15 BOHANNON N. 2PtsFG inside paint, Lay-up blocked
+Q4|8:27|16 JOVIC S. Turnover, Bad pass|||8 CHRISTEN R. Steal
+Q4|8:26|16 JOVIC S. Steal.|||8 CHRISTEN R. Turnover, Bad pass
+Q4|8:25|4 RATHAN-MAYES X. 2Pts FG fast break, Lay-up made, 16 JOVIC S. Assist|76-65|+11|HARMSEN B. Timeout
+Q4|8:25||||8 CHRISTEN R. Substitute out, 25 BANK L. Substitute in
+Q4|8:13|5 GIFFEY N. Blocked shot, 4 RATHAN-MAYES X. Defensive rebound|||13 BRAXTON JR K. 2PtsFG inside paint, Lay-up blocked
+Q4|7:56|5 GIFFEY N. Offensive foul (P1, T1)|||33 WASHINGTON E. Foul drawn
+Q4|7:45|44 BALDWIN K. Steal|||25 BANK L. Turnover, Bad pass
+Q4|7:42|44 BALDWIN K. 2Pts FG fast break, Dunk made|78-65|+13|
+Q4|7:19||||0 DUNN-MARTIN T. 3PtsFG missed, 15 BOHANNON N. Offensive rebound
+Q4|7:16||78-67|+11|15 BOHANNON N. 2PtsFG inside paint, Lay-up made
+Q4|7:05|1 DA SILVA O. 2PtsFG inside paint, Lay-up made, 5 GIFFEY N. Assist|80-67|+13|13 BRAXTON JR K. Personal foul, 1 free throw awarded (P3,T1)
+Q4|7:05|1 DA SILVA O. Foul drawn|||
+Q4|7:05||||0 DUNN-MARTIN T. Substitute out, 1 OSOBOR G. Substitute in
+Q4|7:05||||25 BANK L. Substitute out, 5 CARTER C. Substitute in
+Q4|7:05|1 DA SILVA O. Free Throw made 1 of 1|81-67|+14|
+Q4|6:50|4 RATHAN-MAYES X. Defensive rebound|||1 OSOBOR G. 3PtsFG missed
+Q4|6:35|1 DA SILVA O. Foul drawn|||13 BRAXTON JR K. Personal foul (P4, T2)
+Q4|6:35|HERBERT G. Timeout|||13 BRAXTON JR K. Substitute out, 36 KRAUSE K. Substitute in
+Q4|6:27|5 GIFFEY N. 3PtsFG made, 16 JOVIC S. Assist|84-67|+17|
+Q4|6:05|4 RATHAN-MAYES X. Defensive rebound|||33 WASHINGTON E. 2Pts FG outside paint, Jump shot missed
+Q4|6:01|1 DA SILVA O. Offensive foul (P3,T2)|||36 KRAUSE K. Foul drawn
+Q4|6:01|16 JOVIC S. Substitute out, 11 LUCIC V. Substitute in|||
+Q4|5:36|11 LUCIC V. Defensive rebound|||5 CARTER C. 3PtsFG missed
+Q4|5:27|44 BALDWIN K. 3PtsFG missed|||15 BOHANNON N. Defensive rebound
+Q4|5:24|4 RATHAN-MAYES X. Blocked shot|||1 OSOBOR G. 2PtsFG inside paint, Lay-up blocked, 5 CARTER C. Offensive rebound
+Q4|5:22||84-69|+15|5 CARTER C. 2PtsFG fast break, Lay-up made
+Q4|5:08|4 RATHAN-MAYES X. Foul drawn|||36 KRAUSE K. Personal foul (P1,T3)
+Q4|5:08|44 BALDWIN K. Substitute out, 10 JESSUP J. Substitute in|||
+Q4|5:01|5 GIFFEY N. Foul drawn|||15 BOHANNON N. Personal foul (P4,T4)
+Q4|4:51|10 JESSUP J. 3PtsFG made, 4 RATHAN-MAYES X. Assist|87-69|+18|
+Q4|4:29|1 DA SILVA O. Substitute out, 8 KRATZER L. Substitute in|||
+Q4|4:29|5 GIFFEY N. Substitute out, 22 MIKE I. Substitute in|||5 CARTER C. Substitute out, 0 DUNN-MARTIN T. Substitute in
+Q4|4:29||||36 KRAUSE K. Substitute out, 13 BRAXTON JR K. Substitute in
+Q4|4:27|11 LUCIC V. Defensive rebound|||0 DUNN-MARTIN T. 2PtsFG outside paint, Jump shot missed
+Q4|4:08||||33 WASHINGTON E. Personal foul, 2 free throws awarded (P3,T5)
+Q4|4:08|10 JESSUP J. Foul drawn|||
+Q4|4:08|10 JESSUP J. Free Throw made 1 of 2|88-69|+19|
+Q4|4:08|10 JESSUP J. Free Throw made 2 of 2|89-69|+20|
+Q4|3:45|11 LUCIC V. Steal|||1 OSOBOR G. Turnover, Ball handling
+Q4|3:35|4 RATHAN-MAYES X. 2PtsFG Inside paint, Lay-up made|91-69|+22|
+Q4|3:23|22 MIKE I. Defensive rebound|||1 OSOBOR G. 2PtsFG inside paint, Lay-up missed
+Q4|3:08|10 JESSUP J. 3PtsFG missed|||33 WASHINGTON E. Defensive rebound
+Q4|2:58|8 KRATZER L. Personal foul (P3,T3)|||33 WASHINGTON E. Foul drawn
+Q4|2:58|4 RATHAN-MAYES X. Substitute out, 44 BALDWIN K. Substitute in|||1 OSOBOR G. Substitute out, 25 BANK L. Substitute in
+Q4|2:58||||33 WASHINGTON E. Substitute out, 36 KRAUSE K. Substitute in
+Q4|2:46||||15 BOHANNON N. Offensive foul (P5,T6)
+Q4|2:46|44 BALDWIN K. Foul drawn|||
+Q4|2:46||||15 BOHANNON N. Substitute out, 41 HERRERA A. Substitute in
+Q4|2:46||||13 BRAXTON JR K. Substitute out, 77 BIEL D. Substitute in
+Q4|2:39|44 BALDWIN K. Turnover, Travelling|||
+Q4|2:39|10 JESSUP J. Substitute out, 30 SERMPEZIS N. Substitute in|||
+Q4|2:21||91-72|+19|0 DUNN-MARTIN T. 3Pts FG made
+Q4|1:53|11 LUCIC V. Foul drawn|||36 KRAUSE K. Personal foul, 2 free throws awarded (P2, T7)
+Q4|1:53|8 KRATZER L. Substitute out, 17 FISCHER K. Substitute in|||
+Q4|1:53|11 LUCIC V. Free Throw made 1 of 2|92-72|+20|
+Q4|1:53|11 LUCIC V. Free Throw made 2 of 2|93-72|+21|
+Q4|1:53|11 LUCIC V. Substitute out, 35 KODJOE N. Substitute in|||
+Q4|1:35|22 MIKE I. Defensive rebound|||77 BIEL D. 3PtsFG missed
+Q4|1:17|35 KODJOE N. 2Pts FG outside paint, Jump shot missed|||25 BANK L. Defensive rebound
+Q4|1:12|22 MIKE I. Personal foul (P2,T4)|||
+Q4|1:12||||0 DUNN-MARTIN T. Foul drawn
+Q4|1:07||93-74|+19|36 KRAUSE K. 2Pts FG inside paint, Lay-up made
+Q4|0:47|44 BALDWIN K. 2Pts FG outside paint, Jump shot blocked|||41 HERRERA A. Blocked shot, 36 KRAUSE K. Defensive rebound
+Q4|0:38||93-77|+16|0 DUNN-MARTIN T. 3PtsFG made, 77 BIEL D. Assist
+Q4|0:11|22 MIKE I. 2PtsFG outside paint, Jump shot missed, 17 FISCHER K. Offensive rebound|||
+Q4|0:08|35 KODJOE N. 3PtsFG missed, 22 MIKE I. Offensive rebound|||

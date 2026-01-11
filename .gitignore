@@ -1,0 +1,18 @@
+# Python compilation files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional, but good practice)
+.vscode/

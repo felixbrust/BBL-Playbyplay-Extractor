@@ -1,0 +1,366 @@
+Quarter|Time|Home Action|Score|Diff|Away Action
+Q1|10:00|Starters: 10 BROWN T, 12 KUHSE T, 14 HERKENHOFF P, 23 DANDRIDGE M, 11 VERGE JR. A.|||Starters: 00 WEATHERS M, 0 HORNE D, 6 FLOWERS M, 15 KEBEN M, 20 WEATHERS M.
+Q1|10:00|23 DANDRIDGE M. Jump ball lost|||15 KEBEN M. Jump ball won
+Q1|09:56||0-2|-2|20 WEATHERS M. 2PtsFG inside paint, Dunk made, 00 WEATHERS M. Assist
+Q1|09:33|23 DANDRIDGE M. Turnover, Bad pass|||0 HORNE D. Steal
+Q1|09:27||0-4|-4|15 KEBEN M. 2Pts FG fast break, Lay-up made, 0 HORNE D. Assist
+Q1|09:20|12 KUHSE T. 3Pts FG missed, 10 BROWN T. Offensive rebound|||
+Q1|09:15|12 KUHSE T. 3Pts FG made, 11 VERGE JR. A. Assist|3-4|-1|
+Q1|08:59|14 HERKENHOFF P. Personal foul (P1, T1)|||WEATHERS M. Foul drawn
+Q1|08:57|11 VERGE JR. A. Defensive rebound|||WEATHERS M. 2PtsFG inside paint, Lay-up missed
+Q1|08:50|14 HERKENHOFF P. 3PtsFG made, 11 VERGE JR. A. Assist|6-4|+2|
+Q1|08:29|23 DANDRIDGE M. Personal foul, 2 free throws awarded (P1,T2)|||20 WEATHERS M. Foul drawn
+Q1|08:29||6-5|+1|20 WEATHERS M. Free Throw made 1 of 2
+Q1|08:29||6-6|0|20 WEATHERS M. Free Throw made 2 of 2
+Q1|08:15|23 DANDRIDGE M. 2Pts FG inside paint, Lay-up missed|||15 KEBEN M. Defensive rebound
+Q1|08:07||||20 WEATHERS M. 2PtsFG Inside paint, Lay-up missed, 20 WEATHERS M. Offensive rebound
+Q1|08:01||6-9|-3|0 HORNE D. 3PtsFG made, 20 WEATHERS M. Assist
+Q1|07:48|10 BROWN T. 3PtsFG missed|||00 WEATHERS M. Defensive rebound
+Q1|07:39|14 HERKENHOFF P. Defensive rebound|||6 FLOWERS M. 3Pts FG missed
+Q1|07:23|11 VERGE JR. A. 2PtsFG inside paint, Lay-up made|8-9|-1|
+Q1|07:05|23 DANDRIDGE M. Defensive rebound|||0 HORNE D. 2PtsFG inside paint, Lay-up missed
+Q1|06:56|12 KUHSE T. 2PtsFG inside paint, Lay-up missed|||
+Q1|06:55|Offensive Team rebound|||
+Q1|06:48|10 BROWN T. Turnover, Bad pass|||
+Q1|06:48|23 DANDRIDGE M. Substitute out, 21 THIEMANN L. Substitute in|||
+Q1|06:26||||0 HORNE D. Turnover, Out of bounds
+Q1|06:04|10 BROWN T. 3PtsFG missed|||Defensive Team rebound
+Q1|06:04|14 HERKENHOFF P. Personal foul (P2,T3)|||
+Q1|06:04||||15 KEBEN M. Foul drawn
+Q1|06:03|11 VERGE JR. A. Substitute out, 6 VAN SLOOTEN L. Substitute in|||
+Q1|06:03|14 HERKENHOFF P. Substitute out, 41 PANDI L. Substitute in|||
+Q1|06:03||||6 FLOWERS M. Substitute out, 10 WILLIAMSON S. Substitute in
+Q1|06:03||||15 KEBEN M. Substitute out, 12 OSUNNIYI O. Substitute in
+Q1|05:47||||WEATHERS M. 2Pts FG inside paint, Lay-up missed
+Q1|05:44||||Offensive Team rebound
+Q1|05:36|12 KUHSE T. Personal foul (P1,T4)|||
+Q1|05:36||||20 WEATHERS M. Foul drawn
+Q1|05:33|6 VAN SLOOTEN L. Personal foul, 2 free throws awarded (P1,T5)|||
+Q1|05:33|WEATHERS M. Foul drawn|8-10|-2|WEATHERS M. Free Throw made 1 of 2, 0 HORNE D. Assist
+Q1|05:33||8-11|-3|WEATHERS M. Free Throw made 2 of 2
+Q1|05:18|6 VAN SLOOTEN L. 3PtsFG missed|||10 WILLIAMSON S. Defensive rebound
+Q1|05:01|6 VAN SLOOTEN L. Personal foul, 2 free throws awarded (P2,T6)|||
+Q1|05:01||||20 WEATHERS M. Foul drawn
+Q1|05:01||||WEATHERS M. Substitute out, 21 SERIC M. Substitute in
+|05:01||||0 HORNE D. Substitute out, 6 FLOWERS M. Substitute in
+Q1|05:01||8-12|-4|20 WEATHERS M. Free Throw made 1 of 2
+Q1|05:01||8-13|-5|20 WEATHERS M. Free Throw made 2 of 2
+Q1|04:42|10 BROWN T. 3PtsFG made|11-13|-2|
+Q1|04:22|41 PANDI L. Steal|||20 WEATHERS M. Turnover, Ball handling
+Q1|04:15|10 BROWN T. 2PtsFG inside paint, Lay-up made|13-13|0|
+Q1|03:53||13-16|-3|10 WILLIAMSON S. 3PtsFG made, 21 SERIC M. Assist
+Q1|03:39|12 KUHSE T. Foul drawn|||21 SERIC M. Personal foul, 1 freethrow awarded (P1, T1)
+Q1|03:39||||20 WEATHERS M. Substitute out, 3 MCCLAIN K. Substitute in
+Q1|03:39|12 KUHSE T. Free Throw made 1 of 1|16-16|0|
+Q1|03:17||||10 WILLIAMSON S. 2PtsFG inside paint, Lay-up missed, 10 WILLIAMSON S. Offensive rebound
+Q1|03:13||16-18|-2|10 WILLIAMSON S. 2PtsFG inside paint, Lay-up made
+Q1|02:52|12 KUHSE T. 2PtsFG inside paint, Lay-up made|18-18|0|
+Q1|02:52|41 PANDI L. Foul drawn|||12 OSUNNIYI O. Personal foul (P1,T2)
+Q1|02:52|6 VAN SLOOTEN L. Substitute out, 5 BAMBA T. Substitute in|||
+Q1|02:52|10 BROWN T. Substitute out, 9 FERNER J. Substitute in|||
+Q1|02:52|HELD C. Coach technical foul|||
+Q1|02:50|5 BAMBA T. 2PtsFG inside paint, Alley-oop missed|||10 WILLIAMSON S. Defensive rebound
+Q1|02:45||||10 WILLIAMSON S. Turnover, Bad pass
+Q1|02:32|9 FERNER J. 3Pts FG made, 12 KUHSE T. Assist|19-18|+1|
+Q1|02:16|5 BAMBA T. Defensive rebound|||10 WILLIAMSON S. 2Pts FG inside paint, Alley-oop missed
+Q1|02:06|12 KUHSE T. Substitute out, 11 VERGE JR. A. Substitute in|||
+Q1|02:04|5 BAMBA T. Turnover, Bad pass|||
+Q1|01:49|5 BAMBA T. Personal foul, 2 free throws awarded (P1,T7)|||21 SERIC M. Foul drawn
+Q1|01:49|9 FERNER J. Defensive rebound|19-19|0|21 SERIC M. Free Throw missed 1 of 1; Free Throw made 1 of 2; Free Throw missed 2 of 2
+Q1|01:32|11 VERGE JR. A. Turnover, Ball handling|||12 OSUNNIYI O. Steal
+Q1|01:32||||3 MCCLAIN K. Turnover, Out of bounds
+Q1|01:14||||3 MCCLAIN K. Personal foul, 2 freethrows awarded (P1,T3)
+Q1|01:14|11 VERGE JR. A. Foul drawn|||
+Q1|01:14|11 VERGE JR. A. Free Throw missed 1 of 2|||
+Q1|01:14|11 VERGE JR. A. Free Throw missed 2 of 2|||12 OSUNNIYI O. Defensive rebound
+Q1|00:58|11 VERGE JR. A. Defensive rebound|||21 SERIC M. 2Pts FG inside paint, Jump shot missed
+Q1|00:44|41 PANDI L. 3PtsFG made, 5 BAMBA T. Assist|22-19|+3|
+Q1|00:20||22-21|+1|21 SERIC M. 2PtsFG outside paint, Jump shot made, 10 WILLIAMSON S. Assist
+Q1|00:06||||3 MCCLAIN K. Personal foul (P2,T4)
+Q1|00:06|11 VERGE JR. A. Foul drawn|||3 MCCLAIN K. Substitute out, 20 WEATHERS M. Substitute in
+Q1|00:00|5 BAMBA T. 3PtsFG blocked|||10 WILLIAMSON S. Blocked shot, 12 OSUNNIYI O. Defensive rebound
+Q2|10:00|Starters: 5 BAMBA T, 9 FERNER J, 11 VERGE JR. A, 23 DANDRIDGE M, 41 PANDI L.|||Starters: 00 WEATHERS M, 0 HORNE D, 10 WILLIAMSON S, 15 KEBEN M, 20 WEATHERS M.
+Q2|10:00|Alternating Possession Gained|||
+Q2|09:45|11 VERGE JR. A. Turnover, Bad pass|||10 WILLIAMSON S. Steal
+Q2|09:39||22-24|-2|15 KEBEN M. 3Pts FG made, 20 WEATHERS M. Assist
+Q2|09:11|11 VERGE JR. A. 2PtsFG inside paint, Lay-up missed|||00 WEATHERS M. Defensive rebound
+Q2|08:57|Defensive Team rebound|||15 KEBEN M. 3PtsFG missed
+Q2|08:35|11 VERGE JR. A. 2PtsFG inside paint, Jump shot made|24-24|0|
+Q2|08:04||24-26|-2|WEATHERS M. 2Pts FG inside paint, Lay-up made, 20 WEATHERS M. Assist
+Q2|07:53||||20 WEATHERS M. Personal foul (P1,T1)
+Q2|07:53|11 VERGE JR. A. Foul drawn|||
+Q2|07:53||||10 WILLIAMSON S. Substitute out, 11 ERSEK E. Substitute in
+Q2|07:50|41 PANDI L. Substitute out, 10 BROWN T. Substitute in|||
+Q2|07:44|11 VERGE JR. A. 3PtsFG missed|||00 WEATHERS M. Defensive rebound
+Q2|07:24||24-28|-4|20 WEATHERS M. 2PtsFG inside paint, Lay-up made
+Q2|07:10||||Alternating Possession Gained
+Q2|07:02|11 VERGE JR. A. Substitute out, 12 KUHSE T. Substitute in|||
+Q2|06:55|12 KUHSE T. Defensive rebound|||0 HORNE D. 3PtsFG missed
+Q2|06:48|12 KUHSE T. Foul drawn|||11 ERSEK E. Personal foul (P1,T2)
+Q2|06:45|10 BROWN T. 3PtsFG missed|||
+Q2|06:43|Offensive Team rebound|||
+Q2|06:31|12 KUHSE T. 3Pts FG missed, 5 BAMBA T. Offensive rebound|||
+Q2|06:17|23 DANDRIDGE M. 2Pts FG inside paint, Lay-up blocked|||20 WEATHERS M. Blocked shot, 20 WEATHERS M. Defensive rebound
+Q2|06:17|23 DANDRIDGE M. Personal foul (P2,T1)|||20 WEATHERS M. Foul drawn
+Q2|05:56||||WEATHERS M. Turnover, Ball handling
+Q2|05:33|5 BAMBA T. 2PtsFG inside paint, Lay-up made|26-28|-2|
+Q2|05:13||||0 HORNE D. 3PtsFG missed
+Q2|05:11||||Offensive Team rebound
+Q2|05:11|23 DANDRIDGE M. Personal foul (P3,T2)|||15 KEBEN M. Foul drawn
+Q2|05:11||||JANSSON D. Timeout
+Q2|05:11||||15 KEBEN M. Substitute out, 6 FLOWERS M. Substitute in
+Q2|05:11||||20 WEATHERS M. Substitute out, 12 OSUNNIYI O. Substitute in
+Q2|05:11|23 DANDRIDGE M. Substitute out, 21 THIEMANN L. Substitute in|||
+Q2|04:59||||11 ERSEK E. 3Pts FG missed, 00 WEATHERS M. Offensive rebound
+Q2|04:54|10 BROWN T. Steal|||WEATHERS M. Turnover, Bad pass
+Q2|04:51|10 BROWN T. 2Pts FG fast break, Lay-up made|28-28|0|
+Q2|04:37|9 FERNER J. Personal foul (P1,T3)|||WEATHERS M. Foul drawn
+Q2|04:29||28-31|-3|6 FLOWERS M. 3Pts FG made, 11 ERSEK E. Assist
+Q2|04:19|12 KUHSE T. Turnover, Bad pass|||00 WEATHERS M. Steal
+Q2|04:15||||11 ERSEK E. 3Pts FG missed, 00 WEATHERS M. Offensive rebound
+Q2|04:08||28-33|-5|0 HORNE D. 2PtsFG inside paint, Lay-up made
+Q2|04:08|9 FERNER J. Personal foul, 1 free throw awarded (P2, T4)|||0 HORNE D. Foul drawn
+Q2|04:08|HELD C. Timeout|||
+Q2|04:08|5 BAMBA T. Substitute out, 14 HERKENHOFF P. Substitute in|||
+Q2|04:08|9 FERNER J. Substitute out, 41 PANDI L. Substitute in|||11 ERSEK E. Substitute out, 10 WILLIAMSON S. Substitute in
+Q2|04:08||28-34|-6|0 HORNE D. Free Throw made 1 of 1
+Q2|03:48|12 KUHSE T. 2Pts FG inside paint, Lay-up made|30-34|-4|
+Q2|03:37|10 BROWN T. Foul drawn|||6 FLOWERS M. Offensive foul (P1,T3)
+Q2|03:37||||WEATHERS M. Substitute out, 20 WEATHERS M. Substitute in
+Q2|03:37||||0 HORNE D. Substitute out, 21 SERIC M. Substitute in
+Q2|03:27||||10 WILLIAMSON S. Personal foul (P1,T4)
+Q2|03:27|10 BROWN T. Foul drawn|||
+Q2|03:23|12 KUHSE T. 3PtsFG missed|||10 WILLIAMSON S. Defensive rebound
+Q2|02:59|12 KUHSE T. Defensive rebound|||21 SERIC M. 3PtsFG missed
+Q2|02:50|21 THIEMANN L. 2PtsFG inside paint, Dunk missed|||10 WILLIAMSON S. Defensive rebound
+Q2|02:41|41 PANDI L. Steal|||20 WEATHERS M. Turnover, Ball handling
+Q2|02:41|41 PANDI L. Offensive foul (P1,T5)|||12 OSUNNIYI O. Foul drawn
+Q2|02:41|12 KUHSE T. Substitute out, 11 VERGE JR. A. Substitute in|||
+Q2|02:39|41 PANDI L. Personal foul, 2 free throws awarded (P2, T6)|||
+Q2|02:21||||10 WILLIAMSON S. Foul drawn
+Q2|02:21||||6 FLOWERS M. Substitute out, 3 MCCLAIN K. Substitute in
+Q2|02:21||30-35|-5|10 WILLIAMSON S. Free Throw made 1 of 2
+Q2|02:21||30-36|-6|10 WILLIAMSON S. Free Throw made 2 of 2
+Q2|02:05|11 VERGE JR. A. Foul drawn|||3 MCCLAIN K. Personal foul, 2 free throws awarded (P3,T5)
+Q2|02:05||||3 MCCLAIN K. Substitute out, 0 HORNE D. Substitute in
+Q2|02:05|11 VERGE JR. A. Free Throw made 1 of 2|31-36|-5|
+Q2|02:05|11 VERGE JR. A. Free Throw missed 2 of 2|||10 WILLIAMSON S. Defensive rebound
+Q2|02:00|14 HERKENHOFF P. Personal foul, 2 freethrows awarded (P3,T7)|||
+Q2|02:00|14 HERKENHOFF P. Substitute out, 5 BAMBA T. Substitute in|||10 WILLIAMSON S. Foul drawn
+Q2|02:00||||3 WILLIAMSON S. Free Throw missed 1 of 2
+Q2|02:00||31-37|-6|10 WILLIAMSON S. Free Throw made 2 of 2, 10 WILLIAMSON S. Assist
+Q2|02:00|41 PANDI L. Substitute out, 12 KUHSE T. Substitute in|||
+Q2|01:49|11 VERGE JR. A. Foul drawn|||0 HORNE D. Personal foul, 2 freethrows awarded (P1,T6)
+Q2|01:49|11 VERGE JR. A. Free Throw made 1 of 2|32-37|-5|
+Q2|01:49|11 VERGE JR. A. Free Throw made 2 of 2|33-37|-4|
+Q2|01:27|11 VERGE JR. A. Defensive rebound|||0 HORNE D. 3PtsFG missed
+Q2|01:18|11 VERGE JR. A. 3PtsFG missed|||12 OSUNNIYI O. Defensive rebound
+Q2|00:58|12 KUHSE T. Steal|||20 WEATHERS M. Turnover, Bad pass
+Q2|00:53|11 VERGE JR. A. 2PtsFG inside paint, Lay-up missed|||12 OSUNNIYI O. Defensive rebound
+Q2|00:32|5 BAMBA T. Defensive rebound|||0 HORNE D. 2PtsFG inside paint, Lay-up missed
+Q2|00:26||||12 OSUNNIYI O. Personal foul, 2 free throws awarded (P2,T7)
+Q2|00:26|5 BAMBA T. Foul drawn|||
+Q2|00:26||||12 OSUNNIYI O. Substitute out, 15 KEBEN M. Substitute in
+Q2|00:26|5 BAMBA T. Free Throw fast break made 1 of 2|34-37|-3|
+Q2|00:26|5 BAMBA T. Free Throw fast break made 2 of 2|35-37|-2|
+Q2|00:08||35-39|-4|20 WEATHERS M. 2PtsFG inside paint, Lay-up made
+Q2|00:08|HELD C. Timeout|||
+Q2|00:08||||0 HORNE D. Substitute out, 11 ERSEK E. Substitute in
+Q2|00:01||||20 WEATHERS M. Personal foul, 2 free throws awarded (P2, T8)
+Q2|00:01|11 VERGE JR. A. Foul drawn|||
+Q2|00:01|11 VERGE JR. A. Free Throw made 1 of 2|36-39|-3|
+Q2|00:01|11 VERGE JR. A. Free Throw missed 2 of 2|||
+Q3|10:00|Starters: 5 BAMBA T, 10 BROWN T, 11 VERGE JR. A, 12 KUHSE T, 21 THIEMANN L.|||Starters: 00 WEATHERS M, 0 HORNE D, 6 FLOWERS M, 15 KEBEN M, 20 WEATHERS M.
+Q3|10:00|Alternating Possession Gained|||
+Q3|09:48|10 BROWN T. 3PtsFG missed, 10 BROWN T. Offensive rebound|||
+Q3|09:30|11 VERGE JR. A. 2PtsFG outside paint, Jump shot missed|||15 KEBEN M. Defensive rebound
+Q3|09:11|11 VERGE JR. A. Defensive rebound|||0 HORNE D. 2PtsFG inside paint, Jump shot missed
+Q3|09:02|11 VERGE JR. A. 2PtsFG inside paint, Lay-up missed|||6 FLOWERS M. Defensive rebound
+Q3|08:59|5 BAMBA T. Personal foul, 2 free throws awarded (P2,T1)|||WEATHERS M. Foul drawn
+Q3|08:59||||WEATHERS M. Free Throw fast break missed 1 of 2
+Q3|08:59||36-40|-4|WEATHERS M. Free Throw fast break made 2 of 2, 6 FLOWERS M. Assist
+Q3|08:46|10 BROWN T. 2PtsFG outside paint, Jump shot made|38-40|-2|WEATHERS M. 2PtsFG paint, Lay-made
+Q3|08:29||38-42|-4|WEATHERS M. drawn
+Q3|08:01|Team Turnover, 24 seconds|||0 HORNE D. Turnover, Ball handling
+Q3|07:53|5 BAMBA T. Personal foul (P3,T2)|||0 HORNE D. Personal foul, 2 freethrows awarded (P2,T1)
+Q3|07:53|5 BAMBA T. Steal|||0 HORNE D. Defensive rebound
+Q3|07:40|5 BAMBA T. Foul drawn|||WEATHERS M. 3PtsFG missed
+Q3|07:38|5 BAMBA T. Free Throw fast break made 1 of 2|39-42|-3|0 HORNE D. Defensive rebound
+Q3|07:38|5 BAMBA T. Free Throw fast break missed 2 of 2|||20 WEATHERS M. 2PtsFG fast break, Dunk made, 6 FLOWERS M. Assist
+Q3|07:38|5 BAMBA T. Defensive rebound|||6 FLOWERS inside up, 20 Assist
+Q3|07:25|5 BAMBA T. 2PtsFG inside paint, Lay-up missed|||Foul
+Q3|07:18||39-44|-5|
+Q3|06:59|11 VERGE JR. A. 2PtsFG inside paint, Lay-up made|41-44|-3|
+Q3|06:59||||0 HORNE D. Personal foul, 1 freethrow awarded (P3,T2)
+Q3|06:59|11 VERGE JR. A. Foul drawn|||
+Q3|06:59|5 BAMBA T. Substitute out, 9 FERNER J. Substitute in|||
+Q3|06:59||||6 FLOWERS M. Substitute out, 10 WILLIAMSON S. Substitute in
+Q3|06:59|11 VERGE JR. A. Free Throw made 1 of 1|42-44|-2|
+Q3|06:44||||15 KEBEN M. 3PtsFG missed, 10 WILLIAMSON S. Offensive rebound
+Q3|06:40|11 VERGE JR. A. Blocked shot, 10 BROWN T. Defensive rebound|||10 WILLIAMSON S. 2Pts FG inside paint, Lay-up blocked
+Q3|06:24|11 VERGE JR. A. 2PtsFG inside paint, Lay-up made|44-44|0|
+Q3|06:04||44-46|-2|15 KEBEN M. 2PtsFG inside paint, Lay-up made, 20 WEATHERS M. Assist
+Q3|05:47|21 THIEMANN L. 2Pts FG Inside paint, Dunk made, 11 VERGE JR. A. Assist|46-46|0|
+Q3|05:31|12 KUHSE T. Defensive rebound|||0 HORNE D. 3PtsFG missed
+Q3|05:20|11 VERGE JR. A. Turnover, Travelling|||
+Q3|05:20||||0 HORNE D. Substitute out, 3 MCCLAIN K. Substitute in
+Q3|05:20||||15 KEBEN M. Substitute out, 12 OSUNNIYI O. Substitute in
+Q3|05:08|11 VERGE JR. A. Steal|||20 WEATHERS M. Turnover, Bad pass
+Q3|05:04|21 THIEMANN L. 2Pts FG inside paint, Lay-up made, 11 VERGE JR. A. Assist|48-46|+2|
+Q3|05:04|21 THIEMANN L. Foul drawn|||12 OSUNNIYI O. Personal foul, 1 free throw awarded (P3,T3)
+Q3|05:04||||JANSSON D. Timeout
+Q3|05:02|21 THIEMANN L. Free Throw fast break missed 1 of 1|||00 WEATHERS M. Defensive rebound
+Q3|04:53|11 VERGE JR. A. Foul drawn|||12 OSUNNIYI O. Offensive foul (P4,T4)
+Q3|04:38|10 BROWN T. 3PtsFG missed|||00 WEATHERS M. Defensive rebound
+Q3|04:26||||WEATHERS M. 2Pts FG outside paint, Jump shot missed
+Q3|04:25||||Offensive Team rebound
+Q3|04:19||||3 MCCLAIN K. 3Pts FG missed, 12 OSUNNIYI O. Offensive rebound
+Q3|04:15||||12 OSUNNIYI O. 2PtsFG inside paint, Tip-in missed, 12 OSUNNIYI O. Offensive rebound
+Q3|04:14|21 THIEMANN L. Personal foul, 2 free throws awarded (P1,T3)|||Foul drawn 12 OSUNNIYI O.
+Q3|04:14|12 KUHSE T. Substitute out, 41 PANDI L. Substitute in|||12 OSUNNIYI O. Free Throw missed 1 of 2
+Q3|04:14||48-47|+1|12 OSUNNIYI O. Free Throw made 2 of 2
+Q3|04:14||||WEATHERS M. Substitute out, 15 KEBEN M. Substitute in
+Q3|04:14||||12 OSUNNIYI O. Substitute out, 21 SERIC M. Substitute in
+Q3|04:00|11 VERGE JR. A. 2PtsFG inside paint, Lay-up missed|||21 SERIC M. Defensive rebound
+Q3|03:49|11 VERGE JR. A. 2PtsFG inside paint, Lay-up missed|||
+Q3|03:47|Offensive Team rebound|||
+Q3|03:47|9 FERNER J. Substitute out, 14 HERKENHOFF P. Substitute in|||
+Q3|03:36|41 PANDI L. 2PtsFG inside paint, Lay-up made, 11 VERGE JR. A. Assist|50-47|+3|
+Q3|03:17|14 HERKENHOFF P. Defensive rebound|||21 SERIC M. 2Pts FG outside paint, Jump shot missed
+Q3|02:55|21 THIEMANN L. Foul drawn|||10 WILLIAMSON S. Personal foul, 2 freethrows awarded (P2, T5)
+Q3|02:55|21 THIEMANN L. Free Throw made 1 of 2, 14 HERKENHOFF P. Assist|51-47|+4|
+Q3|02:55|21 THIEMANN L. Free Throw missed 2 of 2, 14 HERKENHOFF P. Offensive rebound|||
+Q3|02:49|10 BROWN T. 3PtsFG missed|||10 WILLIAMSON S. Defensive rebound
+Q3|02:43|41 PANDI L. Defensive rebound|||21 SERIC M. 3PtsFG missed
+Q3|02:23|21 THIEMANN L. Foul drawn|||15 KEBEN M. Personal foul, 2 free throws awarded (P1, T6)
+Q3|02:23|11 VERGE JR. A. Substitute out, 12 KUHSE T. Substitute in|||
+Q3|02:23|21 THIEMANN L. Free Throw missed 1 of 2|||
+Q3|02:23|21 THIEMANN L. Free Throw made 2 of 2, 11 VERGE JR. A. Assist|52-47|+5|
+Q3|02:23|21 THIEMANN L. Substitute out, 23 DANDRIDGE M. Substitute in|||
+Q3|02:23||||10 WILLIAMSON S. Substitute out, 9 ZIPSER P. Substitute in
+Q3|02:09|14 HERKENHOFF P. Personal foul, 1 freethrow awarded (P4, T4)|52-49|+3|21 SERIC M. 2PtsFG inside paint, Lay-up made, 20 WEATHERS M. Assist
+Q3|02:09||||21 SERIC M. Foul drawn
+Q3|02:08|23 DANDRIDGE M. Defensive rebound|||21 SERIC M. Free Throw missed 1 of 1
+Q3|01:49|10 BROWN T. Foul drawn|||20 WEATHERS M. Personal foul, 2 free throws awarded (P3,T7)
+Q3|01:49|14 HERKENHOFF P. Substitute out, 6 VAN SLOOTEN L. Substitute in|||
+Q3|01:49||||3 WEATHERS M. Substitute out, 11 ERSEK E. Substitute in
+Q3|01:49|10 BROWN T. Free Throw made 1 of 2|53-49|+4|
+Q3|01:49|10 BROWN T. Free Throw missed 2 of 2|||
+Q3|01:47||||Defensive Team rebound
+Q3|01:47|10 BROWN T. Substitute out, 5 BAMBA T. Substitute in|||
+Q3|01:35|41 PANDI L. Defensive rebound|||9 ZIPSER P. 2Pts FG inside paint, Lay-up missed
+Q3|01:21|41 PANDI L. Foul drawn|||11 ERSEK E. Personal foul, 1 free throw awarded (P2,T8)
+Q3|01:21|41 PANDI L. Free Throw made 1 of 1|56-49|+7|
+Q3|01:06|6 VAN SLOOTEN L. Steal|||9 ZIPSER P. Turnover, Ball handling
+Q3|00:54|41 PANDI L. 2Pts FG inside paint, Lay-up made|58-49|+9|
+Q3|00:54|41 PANDI L. Foul drawn|||15 KEBEN M. Personal foul, 1 free throw awarded (P2,T9)
+Q3|00:52|41 PANDI L. Free Throw missed 1 of 1|||
+Q3|00:52||||Defensive Team rebound
+Q3|00:52|6 VAN SLOOTEN L. Personal foul, 2 free throws awarded (P3,T5)|||
+Q3|00:52||||9 ZIPSER P. Foul drawn
+Q3|00:52||58-50|+8|9 ZIPSER P. Free Throw made 1 of 2
+Q3|00:52|41 PANDI L. Defensive rebound|||9 ZIPSER P. Free Throw missed 2 of 2
+Q3|00:44|5 BAMBA T. 2PtsFG fast break, Lay-up made|60-50|+10|
+Q3|00:21||||21 SERIC M. 2PtsFG inside paint, Lay-up missed
+Q3|00:19|Defensive Team rebound|||
+Q3|00:00|12 KUHSE T. 3PtsFG missed, 23 DANDRIDGE M. Offensive rebound|||
+Q4|10:00|Starters: 5 BAMBA T, 6 VAN SLOOTEN L, 12 KUHSE T, 23 DANDRIDGE M, 41 PANDI L.|||Starters: 00 WEATHERS M, 0 HORNE D, 6 FLOWERS M, 12 OSUNNIYI O, 21 SERIC M.
+Q4|10:00||||Alternating Possession Gained
+Q4|09:48|23 DANDRIDGE M. Defensive rebound|||0 HORNE D. 3PtsFG missed
+Q4|09:30|5 BAMBA T. 3PtsFG made, 12 KUHSE T. Assist|63-50|+13|
+Q4|09:12|12 KUHSE T. Foul drawn|||WEATHERS M. Offensive foul (P1, T1)
+Q4|09:12||||21 SERIC M. Substitute out, 20 WEATHERS M. Substitute in
+Q4|09:01|23 DANDRIDGE M. Turnover, Travelling|||
+Q4|08:39|23 DANDRIDGE M. Defensive rebound|||12 OSUNNIYI O. 2PtsFG inside paint, Lay-up missed
+Q4|08:16|12 KUHSE T. 2Pts FG inside paint, Lay-up made|65-50|+15|
+Q4|08:10|41 PANDI L. Personal foul (P3,T1)|||20 WEATHERS M. Foul drawn
+Q4|08:02|41 PANDI L. Personal foul, 2 free throws awarded (P4, T2)|||20 WEATHERS M. Foul drawn
+Q4|08:02|41 PANDI L. Substitute out, 10 BROWN T. Substitute in|||
+Q4|08:02||65-51|+14|20 WEATHERS M. Free Throw made 1 of 2
+Q4|08:02||65-52|+13|20 WEATHERS M. Free Throw made 2 of 2
+Q4|07:46|23 DANDRIDGE M. Turnover, 3 seconds|||
+Q4|07:25|10 BROWN T. Steal|||20 WEATHERS M. Turnover, Ball handling
+Q4|07:20|5 BAMBA T. 2PtsFG fast break, Lay-up made, 10 BROWN T. Assist|67-52|+15|
+Q4|07:09||67-54|+13|12 OSUNNIYI O. 2PtsFG inside paint, Dunk made, 0 HORNE D. Assist
+Q4|06:57||||12 OSUNNIYI O. Substitute out, 15 KEBEN M. Substitute in
+Q4|06:57|6 VAN SLOOTEN L. Substitute out, 11 VERGE JR. A. Substitute in|||
+Q4|06:57|23 DANDRIDGE M. Substitute out, 21 THIEMANN L. Substitute in|||
+Q4|06:57||||WEATHERS M. Substitute out, 21 SERIC M. Substitute in
+Q4|06:43|10 BROWN T. Defensive rebound|||6 FLOWERS M. 3Pts FG missed
+Q4|06:32|11 VERGE JR. A. Offensive foul (P1,T3)|||20 WEATHERS M. Foul drawn
+Q4|06:32||||6 FLOWERS M. Substitute out, 10 WILLIAMSON S. Substitute in
+Q4|06:22|5 BAMBA T. Personal foul (P4,T4)|||15 KEBEN M. Foul drawn
+Q4|06:21|5 BAMBA T. Substitute out, 9 FERNER J. Substitute in|||
+Q4|06:20||||21 SERIC M. Offensive foul (P2,T2)
+Q4|06:20|11 VERGE JR. A. Foul drawn|||
+Q4|06:06||||20 WEATHERS M. Personal foul, 2 free throws awarded (P4,T3)
+Q4|06:06|11 VERGE JR. A. Foul drawn|||
+Q4|06:06||||21 SERIC M. Substitute out, 00 WEATHERS M. Substitute in
+Q4|06:06|11 VERGE JR. A. Free Throw made 1 of 2|68-54|+14|
+Q4|06:06|11 VERGE JR. A. Free Throw made 2 of 2|69-54|+15|
+Q4|05:53|9 FERNER J. Personal foul, 2 free throws awarded (P3,T5)|||WEATHERS M. Foul drawn
+Q4|05:53||69-55|+14|WEATHERS M. Free Throw made 1 of 2
+Q4|05:53||||WEATHERS M. Free Throw missed 2 of 2
+Q4|05:51|Defensive Team rebound|||
+Q4|05:51||||10 WILLIAMSON S. Personal foul (P3, T4)
+Q4|05:51|9 FERNER J. Foul drawn|||
+Q4|05:40||||0 HORNE D. Personal foul, 2 freethrows awarded (P4,T5)
+Q4|05:40|9 FERNER J. Foul drawn|||
+Q4|05:40|9 FERNER J. Free Throw missed 1 of 2|||
+Q4|05:40|9 FERNER J. Free Throw missed 2 of 2|||00 WEATHERS M. Defensive rebound
+Q4|05:17||||20 WEATHERS M. 3PtsFG missed, 15 KEBEN M. Offensive rebound
+Q4|05:13||69-57|+12|15 KEBEN M. 2Pts FG inside paint, Lay-up made
+Q4|05:09|10 BROWN T. Turnover, Bad pass|||10 WILLIAMSON S. Steal
+Q4|05:06|HELD C. Timeout|69-59|+10|10 WILLIAMSON S. 2Pts FG inside paint, Lay-up made
+Q4|05:05|12 KUHSE T. Substitute out, 41 PANDI L. Substitute in|||
+Q4|04:42|11 VERGE JR. A. 2PtsFG outside paint, Jump shot missed|||Defensive Team rebound
+Q4|04:28||||WEATHERS M. Offensive foul (P2, T6)
+Q4|04:28|9 FERNER J. Foul drawn|||
+Q4|04:20|11 VERGE JR. A. Turnover, Ball handling|||0 HORNE D. Steal
+Q4|04:15||69-61|+8|10 WILLIAMSON S. 2Pts FG fast break, Lay-up made, 00 WEATHERS M. Assist
+Q4|03:59|10 BROWN T. 3Pts FG made, 41 PANDI L. Assist|72-61|+11|
+Q4|03:50||72-63|+9|20 WEATHERS M. 2PtsFG inside paint, Dunk made
+Q4|03:36|11 VERGE JR. A. 2PtsFG inside paint, Lay-up made|74-63|+11|
+Q4|03:17||||20 WEATHERS M. 3PtsFG missed, 20 WEATHERS M. Offensive rebound
+Q4|03:10||||0 HORNE D. 3PtsFG missed
+Q4|03:09|Defensive Team rebound|||
+Q4|03:09||||10 WILLIAMSON S. Personal foul, 2 free throws awarded (P4, T7)
+Q4|03:09|10 BROWN T. Foul drawn|||
+Q4|03:09|9 FERNER J. Substitute out, 5 BAMBA T. Substitute in|||
+Q4|03:09|10 BROWN T. Free Throw missed 1 of 2|||
+Q4|03:09|10 BROWN T. Free Throw made 2 of 2|75-63|+12|
+Q4|02:59||75-65|+10|WEATHERS M. 2PtsFG inside paint, Dunk made, 20 WEATHERS M. Assist
+Q4|02:35|10 BROWN T. 3PtsFG missed, 5 BAMBA T. Offensive rebound|||
+Q4|02:24|11 VERGE JR. A. 2PtsFG inside paint, Jump shot missed|||10 WILLIAMSON S. Defensive rebound
+Q4|02:13|10 BROWN T. Defensive rebound|||0 HORNE D. 3PtsFG missed
+Q4|02:01|11 VERGE JR. A. Foul drawn|||0 HORNE D. Personal foul, 2 freethrows awarded (P5,T8)
+Q4|02:01|41 PANDI L. Substitute out, 12 KUHSE T. Substitute in|||
+Q4|02:01||||0 HORNE D. Substitute out, 6 FLOWERS M. Substitute in
+Q4|02:01|11 VERGE JR. A. Free Throw made 1 of 2|76-65|+11|
+Q4|02:01|11 VERGE JR. A. Free Throw missed 2 of 2|||10 WILLIAMSON S. Defensive rebound
+Q4|01:54||76-67|+9|20 WEATHERS M. 2PtsFG fast break, Lay-up made
+Q4|01:38|11 VERGE JR. A. Foul drawn|||10 WILLIAMSON S. Personal foul, 2 freethrows awarded (P5, T9)
+Q4|01:38||||10 WILLIAMSON S. Substitute out, 11 ERSEK E. Substitute in
+Q4|01:38|11 VERGE JR. A. Free Throw made 1 of 2|77-67|+10|
+Q4|01:38|11 VERGE JR. A. Free Throw made 2 of 2|78-67|+11|
+Q4|01:38|11 VERGE JR. A. Substitute out, 41 PANDI L. Substitute in|||
+Q4|01:28||78-70|+8|6 FLOWERS M. 3Pts FG made, 20 WEATHERS M. Assist
+Q4|01:28|41 PANDI L. Substitute out, 11 VERGE JR. A. Substitute in|||
+Q4|01:20|11 VERGE JR. A. 2PtsFG inside paint, Lay-up made|80-70|+10|
+Q4|01:12||80-72|+8|15 KEBEN M. 2Pts FG inside paint, Lay-up made, 20 WEATHERS M. Assist
+Q4|01:12|10 BROWN T. Substitute out, 41 PANDI L. Substitute in|||
+Q4|00:58|12 KUHSE T. 3Pts FG made, 11 VERGE JR. A. Assist|83-72|+11|
+Q4|00:57||||JANSSON D. Timeout
+Q4|00:57|41 PANDI L. Substitute out, 10 BROWN T. Substitute in|||
+Q4|00:57|HELD C. Timeout|||
+Q4|00:57|11 VERGE JR. A. Substitute out, 41 PANDI L. Substitute in|||
+Q4|00:52||83-75|+8|20 WEATHERS M. 3PtsFG made, 6 FLOWERS M. Assist
+Q4|00:33|12 KUHSE T. 3Pts FG made|86-75|+11|
+Q4|00:28||||11 ERSEK E. Turnover, Travelling
+Q4|00:28|41 PANDI L. Substitute out, 11 VERGE JR. A. Substitute in|||
+Q4|00:12|21 THIEMANN L. Offensive foul (P2,T6)|||20 WEATHERS M. Foul drawn
+Q4|00:10|11 VERGE JR. A. Substitute out, 41 PANDI L. Substitute in|||
+Q4|00:05|41 PANDI L. Personal foul, 2 free throws awarded (P5,T7)|||6 FLOWERS M. Foul drawn
+Q4|00:02|41 PANDI L. Substitute out, 11 VERGE JR. A. Substitute in|||
+Q4|00:05||86-76|+10|6 FLOWERS M. Free Throw made 1 of 2
+Q4|00:05|21 THIEMANN L. Defensive rebound|||6 FLOWERS M. Free Throw missed 2 of 2
