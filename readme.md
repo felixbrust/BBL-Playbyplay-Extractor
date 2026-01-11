@@ -7,7 +7,7 @@
 ## 📄 Overview
 A robust data engineering pipeline designed to digitize, clean, and analyze historical Play-by-Play data from the German Basketball Bundesliga (BBL).
 
-This repository contains the source code for transforming unstructured PDF game reports into structured, queryable CSV datasets using **Multimodal LLMs (Gemini 3.0 Flash)*, as well as my master dataframe containing all events from the first 100 games of the 25/26 season ready for analysis. Included in the dataframe are columns denoting all players who are on the court during each event, enabling you to calculate on-off stats and more.
+This repository contains the source code for transforming unstructured PDF game reports into structured, queryable CSV datasets using **LLMs (Gemini 3.0 Flash)**, as well as my master dataframe containing all events from the first 100 games of the 25/26 season ready for analysis. Included in the dataframe are columns denoting all players who are on the court during each event, enabling you to calculate on-off stats and more.
 
 **🔗 Read the full technical breakdown on my Substack: _____**
 
@@ -38,6 +38,7 @@ Occasionally there are even errors in the BBL data itself, most commonly wrong n
 ## ⚠️ Remaining issues
 One source of error still remaining is occasionally, when there only is an event of the away team, it gets falsely assigned to the home team(supposed to be quarter|time||||Away event, but transcribed as quarter|time|away event|||). 
 This occurs rarely, so when running investigations over a whole season, I chose to disregard this. However, sometimes, it lands on a substitution, leading to players playing for a wrong team. This usually is the case for 2 in-game minutes which is why I did not manually check and remove all instances. Just thought you should be warned.
+
 
 
 
